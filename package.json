@@ -1,0 +1,9 @@
+{
+    "name": "dump.io"
+  , "version": "0.0.1"
+  , "description": "Listens and dumps your REQUEST / HEADER data"
+  , "author": "Mihail Szabolcs <szaby@szabster.net>"
+  , "dependencies": { }
+  , "main": "./index.js"
+  , "engines": { "node": ">= 0.4.0" }
+}
